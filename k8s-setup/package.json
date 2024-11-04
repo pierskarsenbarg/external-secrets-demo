@@ -1,0 +1,12 @@
+{
+  "name": "esc-demo-k8s-setup",
+  "main": "index.ts",
+  "devDependencies": {
+    "@types/node": "^18",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@pulumi/kubernetes": "^4.18.2",
+    "@pulumi/pulumi": "^3.113.0"
+  }
+}
